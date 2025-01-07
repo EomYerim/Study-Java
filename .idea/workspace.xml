@@ -13,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Study-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Study-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DP/B_1003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_1003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/B_1010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_1010.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DP/B_1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_1463.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DP/B_14916.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_14916.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DP/B_9251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_9251.java" afterDir="false" />
@@ -37,34 +38,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2oSgomJafXTDN0YuuoztuCzfvWv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.B_14916.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/KHP50/Desktop/Study-Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.B_14916.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KHP50/Desktop/Study-Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1730868568646</updated>
       <workItem from="1730868570265" duration="2000" />
-      <workItem from="1736218431080" duration="367000" />
+      <workItem from="1736218431080" duration="543000" />
+      <workItem from="1736229940083" duration="40000" />
     </task>
     <servers />
   </component>
