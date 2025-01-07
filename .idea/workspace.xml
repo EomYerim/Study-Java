@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2386f1c3-d2d1-4f70-a654-3d822607a08e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Study-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/B_1003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_1003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/B_1010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_1010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/B_1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_1463.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/B_14916.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_14916.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/B_9251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/B_9251.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/구현/B_10810.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/B_10810.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/구현/B_10813.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/B_10813.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/구현/B_10869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/B_10869.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/구현/B_2480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/B_2480.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/구현/B_9086.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/B_9086.java" afterDir="false" />
-    </list>
+    <list default="true" id="2386f1c3-d2d1-4f70-a654-3d822607a08e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +66,8 @@
       <updated>1730868568646</updated>
       <workItem from="1730868570265" duration="2000" />
       <workItem from="1736218431080" duration="543000" />
-      <workItem from="1736229940083" duration="847000" />
+      <workItem from="1736229940083" duration="1614000" />
+      <workItem from="1736293157172" duration="38000" />
     </task>
     <servers />
   </component>
