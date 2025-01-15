@@ -11,8 +11,10 @@ public class B_27433 {
         int n = Integer.valueOf(br.readLine());
         System.out.println(recursion(n));
     }
-    public static int recursion(int n){
-        return n==0?1:recursion(n-1)*n;
-
+    public static long recursion(int n) {
+        if (n == 0) {
+            return 1;  // n == 0일 때 팩토리얼은 1
+        }
+        return n * recursion(n - 1);  // n! = n * (n-1)!
     }
 }
