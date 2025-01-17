@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class B_24444 {
+public class B_24445 {
     static ArrayList<Integer> graph [];
     static int result [];
     static boolean visited[];
@@ -36,7 +36,7 @@ public class B_24444 {
         }
 
         for(int i=1;i<=n;i++){
-            Collections.sort(graph[i]);
+            Collections.sort(graph[i],Collections.reverseOrder());
         }
         bfs(k);
 
@@ -65,3 +65,5 @@ public class B_24444 {
         }
     }
 }
+
+
